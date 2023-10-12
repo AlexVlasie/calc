@@ -1,0 +1,7 @@
+Interval de pret	Adaos comercial %	
+>/=2000 Lei	5%	
+>/=1500 Lei	10%	
+>/=1000 Lei	15%	
+>/=500 Lei	20%	
+>/=20 Lei	25%	
+<20 Lei (aplica pret minim 20 Lei + Adaos 30%)	30%	
