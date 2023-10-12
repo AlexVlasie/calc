@@ -2,7 +2,7 @@
   "name": "cpa",
   "version": "1.0.0",
   "description": "Calculator de preturi - departament achizitii",
-  "main": "main1.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
